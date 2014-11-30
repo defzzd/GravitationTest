@@ -1,7 +1,7 @@
 GravitationTest
 ===============
 
-A brief experiment I made to see how easy it would be to make a functional
+A brief experiment I made to see how hard it would be to approximate a
     solution to the N-body problem. It failed horribly at that because
     I wasn't quite aware that the real goal of that problem was to find stable
     orbits with absolute precision, but it succeeded at producing a simple
