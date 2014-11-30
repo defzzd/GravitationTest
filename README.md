@@ -7,5 +7,8 @@ A brief experiment I made to see how easy it would be to make a functional
     orbits with absolute precision, but it succeeded at producing a simple
     yet interesting simulation of orbital physics.
 
+This was written before I had any formal training in software development and
+    should be considered for informative purposes only.
+
 Requires Python 3 and Pygame for Python 3, though it should be easy enough to
     adapt to Python 2 and the associated Pygame version if desired.
